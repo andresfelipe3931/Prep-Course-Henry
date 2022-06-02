@@ -1,0 +1,9 @@
+Homework: Introducción a Javascript
+
+1) Conceptos:
+
+- Variables: Son almacenadores como cajones o cajas para guardar diferentes tipos de valores como números o letras, depende de lo que el programador desee guardar.
+- Strings: Son un tipo de valores de los cuales se pueden guardar en una variable (caja o cajon), son conjunto de letras como nombres.
+- Funciones: Son las acciones que se realizan en un programa, sea una operacion matemática, comparar dos valores. A estas funciones se le puede ingresar valores como entradas (argumentos) y asi mismo devuelve otros valores como resultado (return).
+- Declaraciones IF: Es una condicional (si pasa tal cosa, se ejecuta otra cosa). Nos sirve para poner condicionales a funciones.
+- Valores Booleanos: Son un tipo de valores los cuales solamente poseen dos estados, como 1 y 0, como prendido y apagado, como verdadero o falso. 
