@@ -1,0 +1,7 @@
+Homework: Javascript II
+
+Conceptos:
+For: Sirve para realizar una accion cualquiera las veces que queramos.
+&&: Se usa cuando se tiene 2 sentencias y se desean cumplir (como verdaderas) las dos al tiempo.
+||: Se usa cuando se tiene 2 sentencias y se desean cumplir (como verdaderas) al menos una de las dos sentencias.
+! : Sirve para negar cualquier sentencia, quiere decir lo contrario a lo que se afirma.
