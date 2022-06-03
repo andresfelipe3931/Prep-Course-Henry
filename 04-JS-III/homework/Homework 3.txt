@@ -1,0 +1,4 @@
+Homework: Javascript III
+
+Conceptos
+Array: En español significa arreglo o matriz, que es un conjunto de datos organizados como un edificio, donde cada piso es un tipo de dato y puede llegar a tener 10 o 100 pisos. Sirve para guardar muchos datos a la vez.
