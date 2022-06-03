@@ -1,0 +1,8 @@
+Homework: Javascript IV
+
+Conceptos
+- Objetos: Son contenedores o almacenadores de datos, pero se puede guardar mas informacion sobre una sola cosa, como pueden ser muchas caracteristicas de un objeto.
+- Propiedades: son las caracteristicas que se le asigna a un objeto, como la edad, nombre, color, etc.
+- Métodos: Son las acciones que se realiza dentro de un objeto, y se puede llamar a esta accion por medio del punto.
+- Bucle "For...in": Sirve para realizar repetir una accion varias veces sobre cada porpiedad o caracteristica que tiene adentro un objeto.
+- Notación de puntos VS Notación de corchetes: Estas dos notaciones sirven para llamar a una caracteristica o propiedad de un objeto, se diferencian en que la notacion de corchetes se debe colacar la propiedad entre comillas y luego entre corchetes, mientras que la notacion en puntos no hay necesidad de comillas ni corchetes, solamente un punto.
