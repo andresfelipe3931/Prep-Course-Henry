@@ -1,0 +1,5 @@
+Homework: Javascript V
+
+Conceptos
+- 'Prototype': Es la propiedad que tiene cada clase para reutilizar metodos ya creados y permite a cualquier objeto que se cree a usar esos metodos.
+- Contructors: Es un tipo de acción que sirve como molde o plantilla para crear nuevos objetos.
