@@ -1,4 +1,4 @@
 Homework: Javascript VI
 
 Conceptos
-Funciones Callback: 
+Funciones Callback: Es la capacidad de pasar una función como argumento de otra función
