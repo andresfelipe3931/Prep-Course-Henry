@@ -1,0 +1,4 @@
+Homework: Javascript VI
+
+Conceptos
+Funciones Callback: 
